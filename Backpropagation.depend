@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1446646162 source:d:\c++\backpropagation\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<ctime>
+
+1448387474 source:d:\mobile\dosimetria\backpropagation console\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	"Instancias.hpp"
+
+1446663191 source:d:\mobile\dosimetria\backpropagation console\instancias.cpp
+	"Instancias.hpp"
+	<fstream>
+	<iostream>
+
+1446661762 d:\mobile\dosimetria\backpropagation console\instancias.hpp
+	<vector>
+
