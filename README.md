@@ -6,6 +6,6 @@ penal  brasileira. O sistema leva em conta o Emprego do sistema trifásico para 
 Circunstâncias judiciais; Culpabilidade; Antecedentes; Conduta social; Motivo do crime; Circunstância do crime;
 Consequência do crime; Comportamento da vítima
 
-# versão Android
+# Versão Android
 No link encontra-se a versão Android. 
 https://play.google.com/store/apps/details?id=com.embarcadero.Dosimetria
